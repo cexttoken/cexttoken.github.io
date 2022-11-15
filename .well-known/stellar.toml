@@ -1,32 +1,32 @@
-# Gavitoken <gavitoken.github.io>
+# Cexttoken <cexttoken.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBOL57VCIN2FU6DRFETSXWADI4BC4A52KGETCX7MH6YSHYI2QI2UNOOD"
+"GA4EGLYCF4OK24MR3BBKFHADD5TVM57HFYJBGQA6INT5UDLUEMOSCEXT"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Gavitoken"
-ORG_URL="https://gavitoken.github.io"
-ORG_LOGO = "https://gavitoken.github.io/img/cext.png"
-ORG_OFFICIAL_EMAIL="gavitoken@gmail.com"
-ORG_SUPPORT_EMAIL="gavitoken@gmail.com"
-ORG_TWITTER="0xgavitoken"
-ORG_DESCRIPTION="Gavitoken: Create Value to Crypto Space"
+ORG_NAME="Cexttoken"
+ORG_URL="https://cexttoken.github.io"
+ORG_LOGO = "https://cexttoken.github.io/img/cext.png"
+ORG_OFFICIAL_EMAIL="cexttoken@gmail.com"
+ORG_SUPPORT_EMAIL="cexttoken@gmail.com"
+ORG_TWITTER="0xcexttoken"
+ORG_DESCRIPTION="Cexttoken: Create Value to Crypto Space"
 
 [[PRINCIPALS]]
-email="gavitoken@gmail.com"
+email="cexttoken@gmail.com"
 
 [[CURRENCIES]]
-code = "GAVI"
-name = "GAVI"
-issuer = "GBOL57VCIN2FU6DRFETSXWADI4BC4A52KGETCX7MH6YSHYI2QI2UNOOD"
+code = "CEXT"
+name = "CEXT"
+issuer = "GA4EGLYCF4OK24MR3BBKFHADD5TVM57HFYJBGQA6INT5UDLUEMOSCEXT"
 is_asset_anchored=false
 display_decimals = 7
-desc="GAVI is a utility token for GaviNFT. Our NFT collection will be running on our website in the near future. GaviToken was built to reward GaviNFT holders with passive cryptocurrency income every month."
-image="https://gavitoken.github.io/img/cext.png"
-conditions="There will only ever be 1 billion GAVI tokens in existence."
+desc="CEXT is a utility token for CextNFT. Our NFT collection will be running on this website in the near future. CextToken was built to reward CextNFT holders with passive cryptocurrency income every month."
+image="https://cexttoken.github.io/img/cext.png"
+conditions="There will only ever be 1 billion CEXT tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
