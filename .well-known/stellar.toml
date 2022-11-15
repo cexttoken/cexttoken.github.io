@@ -9,7 +9,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="Gavitoken"
 ORG_URL="https://gavitoken.github.io"
-ORG_LOGO = "https://gavitoken.github.io/img/gavi.png"
+ORG_LOGO = "https://gavitoken.github.io/img/cext.png"
 ORG_OFFICIAL_EMAIL="gavitoken@gmail.com"
 ORG_SUPPORT_EMAIL="gavitoken@gmail.com"
 ORG_TWITTER="0xgavitoken"
@@ -25,7 +25,7 @@ issuer = "GBOL57VCIN2FU6DRFETSXWADI4BC4A52KGETCX7MH6YSHYI2QI2UNOOD"
 is_asset_anchored=false
 display_decimals = 7
 desc="GAVI is a utility token for GaviNFT. Our NFT collection will be running on our website in the near future. GaviToken was built to reward GaviNFT holders with passive cryptocurrency income every month."
-image="https://gavitoken.github.io/img/gavi.png"
+image="https://gavitoken.github.io/img/cext.png"
 conditions="There will only ever be 1 billion GAVI tokens in existence."
 status="live"
 anchor_asset_type="other"
